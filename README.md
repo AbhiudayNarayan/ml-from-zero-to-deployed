@@ -2,7 +2,7 @@
 From data to deployment: A structured machine learning journey by an aspiring EE+ML intern
 ee-ml-roadmap/
 ├── week-01-python-basics/
-│   ├── calculator.py
+│   ├── calculator.py 
 │   ├── file-parser.py
 │   ├── README.md
 ├── week-02-data-visualization/
